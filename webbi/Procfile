@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/webbi.jar clojure.main -m webbi.core

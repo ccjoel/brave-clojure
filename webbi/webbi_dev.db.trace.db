@@ -1,0 +1,9 @@
+2015-12-03 12:33:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GUESTBOOK" not found; SQL statement:
+SELECT * from guestbook [42102-188]
+2015-12-03 12:35:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GUESTBOOK" not found; SQL statement:
+SELECT * from guestbook [42102-188]
+2015-12-03 12:36:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GUESTBOOK" not found; SQL statement:
+SELECT * from guestbook [42102-188]
